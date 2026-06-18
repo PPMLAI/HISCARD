@@ -1,1 +1,1 @@
-ini adalah aplikasi pemeriksaan penerangan gedung Lembaga Alkitab Indonesia Jl. Roda Pembangunan No.96, Nanggewer, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16912
+Shaloom......Ini adalah aplikasi pemeriksaan penerangan gedung Lembaga Alkitab Indonesia Jl. Roda Pembangunan No.96, Nanggewer, Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16912. Semoga membantu rekan-rekan Teknisi LAI dalam melaksanakan tugas. Semangat selalu oke-oke
